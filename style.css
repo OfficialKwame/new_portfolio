@@ -582,19 +582,18 @@ color: #4831d4;
 
 /* section 5 start  */
 
-
-
 .page-5 .message{
 
     margin-top:6rem;
-    background-color: #ccf381;
-    
+    background-color: #4d681b;
+
     justify-content: center;
 
 }
 
-
-
+.page-5 .message p {
+    font-size: 12px;
+}
 
 
 
